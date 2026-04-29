@@ -10,3 +10,8 @@
 # d model
 C就是餵入的N個變量
 <img width="354" height="50" alt="image" src="https://github.com/user-attachments/assets/cd97ede5-b5ee-494c-9e9f-7de6e8424331" />
+
+
+
+
+Reversible Instance Normalization
