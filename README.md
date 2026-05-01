@@ -36,6 +36,8 @@ $$\hat{Y}_{out} = \text{TimesNet}(X_{in})$$
 
 $$\hat{Y}_{final} = \hat{Y}_{out} \times \sigma_{instance} + \mu_{instance}$$
 
+# Loss Function
+MSE
 
 # 金融數據測試
 TARGET_TICKER = 'NVDA' (預測目標T+5)
