@@ -66,5 +66,5 @@ BATCH_SIZE = 32
 
 ## 樣本外殘差分布(預測值-實際值)
 帶有一點偏態，模型沒有捕捉完全，不過以樣本外來說我覺得很不錯了
-<img width="708" height="347" alt="image" src="https://github.com/user-attachments/assets/48b62888-046a-4a2f-b114-1bb89d1a28d1" />
+<img width="1248" height="787" alt="image" src="https://github.com/user-attachments/assets/177374d3-b90d-4009-9164-843c530cb132" />
 
